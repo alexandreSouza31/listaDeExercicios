@@ -12,7 +12,7 @@ namespace listaDeExercicio.Exercicio04
 
             double resultado = ((celsius * 9) / 5) + 32;
 
-            Console.WriteLine($" O consumo de combustível por quilômetro percorrido é: {resultado}");
+            Console.WriteLine($" A temperatura convertida para Fahrenheit é: {resultado}");
             Console.ReadLine();
         }
     }
